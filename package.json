@@ -1,0 +1,7 @@
+{
+  "name": "localesfs-shopify-demo",
+  "private": true,
+  "type": "module",
+  "description": "Map a Shopify product onto LocalesFS keys",
+  "license": "MIT"
+}

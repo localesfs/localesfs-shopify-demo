@@ -1,0 +1,8 @@
+{
+  "resourceId": "gid://shopify/Product/1001",
+  "translatableContent": [
+    { "key": "title", "value": "Canvas tote", "digest": "digest-title" },
+    { "key": "body_html", "value": "<p>A shop window sample.</p>", "digest": "digest-body" },
+    { "key": "handle", "value": "", "digest": "digest-handle" }
+  ]
+}
